@@ -1,0 +1,11 @@
+# SEO
+title: Regulad's Webzone
+author: regulad
+
+# Jekyll
+remote_theme: regulad/crust-tastic
+
+# Plugins
+plugins:
+  - github-pages
+  - jekyll-redirect-from
